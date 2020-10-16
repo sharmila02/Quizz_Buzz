@@ -1,0 +1,94 @@
+[
+    {
+        "1": "The chain of very high plateaus in Australia is called",
+        "2": "Which of the following is the highest peak in Australia?",
+        "3": "Which of the following grassland in Australia is called as 'Parkland of Australia'?",
+        "4": "How many time zones are in Australia?",
+        "5": "Which of the following animal in Australia is called 'Laughing Jacks'?",
+        "6": "What is Australia's largest city, which is famous for its opera house and harbor?",
+        "7": "What is the capital of Australia?",
+        "8": "What is the longest river in Australia?",
+        "9": "What is the name of the large, sandstone rock in the desert centre of Australia?",
+        "10": ""
+    },
+    {
+       
+        "1": {
+            "a": "Great Barrier Reef",
+            "b": "Great Dividing Range",
+            "c": "Great Artesian Basin",
+            "d": "Australasia"
+        },
+
+        "2": {
+            "a": "Mawson Peak",
+            "b": "Mt. Townsend",
+            "c": "Mt Cook",
+            "d": "Mt. Kosciusko"
+        },
+
+        "3": {
+            "a": "Savanna",
+            "b": "Downs",
+            "c": "Steppes",
+            "d": "Pampas"
+        },
+
+        "4": {
+            "a": "1",
+            "b": "3",
+            "c": "2",
+            "d": "4"
+        },
+
+        "5": {
+            "a": "Kangaroo",
+            "b": "Kookaburra",
+            "c": "Emu",
+            "d": "Koala"
+        },
+
+        "6": {
+            "a": "Melbourne",
+            "b": "Adelaide",
+            "c": "Brisbane",
+            "d": "Sydney"
+        },
+        "7": {
+            "a": "Canberra",
+            "b": "Sydney",
+            "c": "Melbourne",
+            "d": "Brisbane"
+        },
+        "8": {
+            "a": "Mississippi River",
+            "b": "Murray River",
+            "c": "Thames River",
+            "d": "Nile River"
+        },
+        "9": {
+            "a": "Uluru",
+            "b": "PInnacles",
+            "c": "Twelve Apostles",
+            "d": "The Rock of Ages"
+        },
+        "10": {
+            "a": "Europeans",
+            "b": "Maoris",
+            "c": "Australian Aborigines",
+            "d": "Indians"
+        }
+    },
+    {
+        "1": "Great Dividing Range",
+        "2": "Mt. Kosciusko",
+        "3": "Downs",
+        "4": "3",
+        "5": "Kookaburra",
+        "6": "Sydney",
+        "7": "Canberra",
+        "8": "Murray River",
+        "9": "The Rock of Ages",
+        "10": "Australian Aborigines"
+    }
+]

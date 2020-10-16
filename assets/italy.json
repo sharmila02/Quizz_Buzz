@@ -1,0 +1,94 @@
+[
+    {
+        "1": "How many countries does Italy border?",
+        "2": "With 7,600 kilometres of coastline, Italy has some of the longest coasts in the world. But which of these countries has more?",
+        "3": "How many seas surround Italy? ",
+        "4": "Italy's longest river is the Po. What's the second longest?",
+        "5": "How many volcanoes in Italy are active right now?",
+        "6": "The island of Lampedusa is Italy's southernmost point. Which of these places is it closest to?",
+        "7": "What's the highest peak entirely in Italy?",
+        "8": "Which Italian car manufacturer sponsors a Formula One team?",
+        "9": "In Italy, who heads the armed forces and has powers to veto legislation?",
+        "10": "The official name of Italy is:"
+    },
+    {
+       
+        "1": {
+            "a": "4",
+            "b": "3",
+            "c": "2",
+            "d": "6"
+        },
+
+        "2": {
+            "a": "Norway",
+            "b": "Denmark",
+            "c": "Spain",
+            "d": "Croatia"
+        },
+
+        "3": {
+            "a": "4",
+            "b": "3",
+            "c": "1",
+            "d": "2"
+        },
+
+        "4": {
+            "a": "Arno",
+            "b": "Tiber",
+            "c": "Adige",
+            "d": "Adda"
+        },
+
+        "5": {
+            "a": "3",
+            "b": "0",
+            "c": "1",
+            "d": "5"
+        },
+
+        "6": {
+            "a": "Libya",
+            "b": "Malta",
+            "c": "Tunisia",
+            "d": "Sicily"
+        },
+        "7": {
+            "a": "Monte Cervino",
+            "b": "Monte Grivola",
+            "c": "Gran Paradiso",
+            "d": "Monte Bianco"
+        },
+        "8": {
+            "a": "Ferrari",
+            "b": "Lamborghini",
+            "c": "Fiat",
+            "d": "Maserati"
+        },
+        "9": {
+            "a": "President",
+            "b": "Prime Minister",
+            "c": "Defense Minister",
+            "d": "Economy Minister"
+        },
+        "10": {
+            "a": "Italian Republic",
+            "b": "Republic of Italy",
+            "c": "Italian Peninsula",
+            "d": "Peninsular Italy"
+        }
+    },
+    {
+        "1": "4",
+        "2": "Norway",
+        "3": "4",
+        "4": "Adige",
+        "5": "3",
+        "6": "Tunisia",
+        "7": "Gran Paradiso",
+        "8": "Ferrari",
+        "9": "President",
+        "10": "Italian Republic"
+    }
+]

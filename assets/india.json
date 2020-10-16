@@ -1,0 +1,94 @@
+[
+    {
+        "1": "Which Indian city is the Capital of Two states?",
+        "2": "How many countries border India?",
+        "3": "What is India’s smallest state by area?",
+        "4": "Which of these bodies of water does not border India?",
+        "5": "Delhi is located along what river?",
+        "6": "What body of water lies to the west of India?",
+        "7": "In which state is Bengaluru located?",
+        "8": "Who was known as Iron man of India?",
+        "9": "Jude Felix is a famous Indian player in which of the fields?",
+        "10": "The theory of economic drain of India during British imperialism was propounded by"
+    },
+    {
+       
+        "1": {
+            "a": "Mumbai",
+            "b": "Chandigarh",
+            "c": "Kolkata",
+            "d": "Chennai"
+        },
+
+        "2": {
+            "a": "2",
+            "b": "6",
+            "c": "5",
+            "d": "14"
+        },
+
+        "3": {
+            "a": "Goa",
+            "b": "Puducherry",
+            "c": "Kerala",
+            "d": "Bihar"
+        },
+
+        "4": {
+            "a": "Indian Ocean",
+            "b": "Red Sea",
+            "c": "Arabian Sea",
+            "d": "Bay of Bengal"
+        },
+
+        "5": {
+            "a": "The Yamuna",
+            "b": "The Ganges",
+            "c": "The Nile",
+            "d": "The Brahmaputra"
+        },
+
+        "6": {
+            "a": "Coral Sea",
+            "b": "Celebes Sea",
+            "c": "Andaman Sea",
+            "d": "Arabian Sea"
+        },
+        "7": {
+            "a": "Telangana",
+            "b": "Bihar",
+            "c": "Karnataka",
+            "d": "Assam"
+        },
+        "8": {
+            "a": "Govind Ballabh Pant",
+            "b": "Jawahar lal Nehru",
+            "c": "Mahatma Ghandhi",
+            "d": "Sardar Vallabhai Patel"
+        },
+        "9": {
+            "a": "Volley Ball",
+            "b": "Tennis",
+            "c": "Football",
+            "d": "Hockey"
+        },
+        "10": {
+            "a": "Jawahar Lal Nehru",
+            "b": "Dadabhai Naoroji",
+            "c": "M K Gandhi",
+            "d": "Subhash Chandra Bose"
+        }
+    },
+    {
+        "1": "Chandigarh",
+        "2": "6",
+        "3": "Goa",
+        "4": "Red Sea",
+        "5": "The Yamuna",
+        "6": "Arabian Sea",
+        "7": "Karnataka",
+        "8": "Sardar Vallabhai Patel",
+        "9": "Hockey",
+        "10": "Dadabhai Naoroji"
+    }
+]

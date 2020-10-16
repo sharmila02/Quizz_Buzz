@@ -1,0 +1,94 @@
+[
+    {
+        "1": "Almost one in every ___ people in sub-Saharan Africa is Nigerian",
+        "2": "In what year did Nigeria gain independence from the United Kingdom?",
+        "3": "How many states does Nigeria have? ",
+        "4": "Where is Nigeria located",
+        "5": "What is the highest point in Nigeria?",
+        "6": "What is the smallest state in Nigeria by land area?",
+        "7": "Nigeria’s capital city changed from Lagos to Abuja in what year?",
+        "8": "Which of these countries does not share a border with Nigeria?",
+        "9": "What is the longest river in Nigeria?",
+        "10": "Where is Ikogosi Warm Spring located?"
+    },
+    {
+       
+        "1": {
+            "a": "2",
+            "b": "5",
+            "c": "10",
+            "d": "20"
+        },
+
+        "2": {
+            "a": "1914",
+            "b": "1960",
+            "c": "1975",
+            "d": "1999"
+        },
+
+        "3": {
+            "a": "29",
+            "b": "36",
+            "c": "35",
+            "d": "16"
+        },
+
+        "4": {
+            "a": "Western Africa",
+            "b": "Central Africa",
+            "c": "Eastern Africa",
+            "d": "Southern Africa"
+        },
+
+        "5": {
+            "a": "Chappal Waddi",
+            "b": "Obudu Plateau",
+            "c": "Shere Hills",
+            "d": "Danko Hills"
+        },
+
+        "6": {
+            "a": "Imo State",
+            "b": "Anambra State",
+            "c": "Ebonyi State",
+            "d": "Lagos State"
+        },
+        "7": {
+            "a": "1989",
+            "b": "1990",
+            "c": "1991",
+            "d": "1992"
+        },
+        "8": {
+            "a": "The Republic of Benin",
+            "b": "Cameroon",
+            "c": "Niger Republic",
+            "d": "Ghana"
+        },
+        "9": {
+            "a": "Gongola",
+            "b": "Kaduna",
+            "c": "Benue",
+            "d": "Niger"
+        },
+        "10": {
+            "a": "Ondu",
+            "b": "Delta",
+            "c": "Ekiti",
+            "d": "Edo"
+        }
+    },
+    {
+        "1": "5",
+        "2": "1960",
+        "3": "36",
+        "4": "Western Africa",
+        "5": "Chappal Waddi",
+        "6": "Lagos State",
+        "7": "1991",
+        "8": "Ghana",
+        "9": "Niger",
+        "10": "Ekiti"
+    }
+]

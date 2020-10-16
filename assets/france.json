@@ -1,0 +1,94 @@
+[
+    {
+        "1": "Which country does not border mainland France?",
+        "2": "France has a large car market with several brands. Which brand of cars did not originate from France?",
+        "3": "In what year was the Eiffel Tower completed?",
+        "4": "How many regions does France have (including those overseas)?",
+        "5": "Identify a type of French red wine:",
+        "6": "The iconic bike race, Le Tour de France, usually begins in which month?",
+        "7": "Who is not a French philosopher from the Enlightenment era?",
+        "8": "Which river passes through Paris?",
+        "9": "Which one is the highest point in Frace?",
+        "10": "Which king is also known as the Sun King?"
+    },
+    {
+       
+        "1": {
+            "a": "Luxembourg",
+            "b": "Belgium",
+            "c": "Austria",
+            "d": "Italy"
+        },
+
+        "2": {
+            "a": "Dacia",
+            "b": "Peugeot",
+            "c": "Citroën",
+            "d": "Renault"
+        },
+
+        "3": {
+            "a": "1763",
+            "b": "1824",
+            "c": "1889",
+            "d": "1904"
+        },
+
+        "4": {
+            "a": "22",
+            "b": "27",
+            "c": "35",
+            "d": "46"
+        },
+
+        "5": {
+            "a": "Champagne",
+            "b": "Sémillon",
+            "c": "Sauvignon Blanc",
+            "d": "Merlot"
+        },
+
+        "6": {
+            "a": "May",
+            "b": "July",
+            "c": "August",
+            "d": "September"
+        },
+        "7": {
+            "a": "Voltaire",
+            "b": "Molière",
+            "c": "Montesquieu",
+            "d": "Jean-Jacques Rousseau"
+        },
+        "8": {
+            "a": "Loire",
+            "b": "Rhine",
+            "c": "Seine",
+            "d": "Garonne"
+        },
+        "9": {
+            "a": "Pic Palas",
+            "b": "Bare Des Ecrins",
+            "c": "Hohneck",
+            "d": "Mont Blanc"
+        },
+        "10": {
+            "a": "Louis XIV",
+            "b": "Louis XV",
+            "c": "Charles XI",
+            "d": "Francis II"
+        }
+    },
+    {
+        "1": "Austria",
+        "2": "Dacia",
+        "3": "1889",
+        "4": "27",
+        "5": "Merlot",
+        "6": "July",
+        "7": "Molière",
+        "8": "Seine",
+        "9": "Mont Blanc",
+        "10": "Louis XIV"
+    }
+]

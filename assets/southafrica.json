@@ -1,0 +1,94 @@
+[
+    {
+        "1": "What is the official motto of South Africa?",
+        "2": "In what year was Nelson Mandela released from prison?",
+        "3": "Bafana Bafana won the African Cup of Nations in which year?",
+        "4": "Who became President after Nelson Mandela in 1999?",
+        "5": "Which city or town is the official capital of KwaZulu-Natal?",
+        "6": "Pilgrim's Rest is located in which province?",
+        "7": "How many official languages does South Africa have?",
+        "8": "Benni McCarthy played which sport for South Africa?",
+        "9": "Which of these countries does not border South Africa?",
+        "10": "In which province is the King Sabata Dalindyebo Local Municipality located?"
+    },
+    {
+       
+        "1": {
+            "a": "Unity in Diversity",
+            "b": "We are One",
+            "c": "We are United",
+            "d": "Unity in Excellence"
+        },
+
+        "2": {
+            "a": "1994",
+            "b": "1989",
+            "c": "1990",
+            "d": "1991"
+        },
+
+        "3": {
+            "a": "1995",
+            "b": "1997",
+            "c": "1996",
+            "d": "1998"
+        },
+
+        "4": {
+            "a": "Cyril Ramaphosa",
+            "b": "Thabo Mbeki",
+            "c": "Jacob Zuma",
+            "d": "Kgalema Motlanthe"
+        },
+
+        "5": {
+            "a": "Ulundi",
+            "b": "Pietermaritzburg",
+            "c": "Durban",
+            "d": "Newcastls"
+        },
+
+        "6": {
+            "a": "Mpumalanga",
+            "b": "Free State",
+            "c": "Western Cape",
+            "d": "Limpopo"
+        },
+        "7": {
+            "a": "9",
+            "b": "10",
+            "c": "11",
+            "d": "12"
+        },
+        "8": {
+            "a": "Cricket",
+            "b": "Football",
+            "c": "Tennis",
+            "d": "Rugby"
+        },
+        "9": {
+            "a": "Botswana",
+            "b": "Angola",
+            "c": "Zimbabwe",
+            "d": "Namibia"
+        },
+        "10": {
+            "a": "Northern Cape",
+            "b": "Eastern Cape",
+            "c": "North West",
+            "d": "Limpopo"
+        }
+    },
+    {
+        "1": "Unity in Diversity",
+        "2": "1990",
+        "3": "1996",
+        "4": "Thabo Mbeki",
+        "5": "Pietermaritzburg",
+        "6": "Mpumalanga",
+        "7": "11",
+        "8": "Football",
+        "9": "Angola",
+        "10": "Eastern Cape"
+    }
+]

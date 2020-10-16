@@ -1,0 +1,94 @@
+[
+    {
+        "1": "The capital city of Canada is:",
+        "2": "When did Canada gain its independence",
+        "3": "Who was the first prime minister of Canada?",
+        "4": "What's the only country larger than Canada in terms of land?",
+        "5": "An explorer from which European country named Canada?",
+        "6": "Where is the wrestler Bret Hart from?",
+        "7": "According to folklore, what is the name of the lake monster that lives in Okanagan Lake?",
+        "8": "What is unique about the restaurant in the CN Tower?",
+        "9": "Which sport did a Canadian invent?",
+        "10": "What is the largest lake entirely in Canada?"
+    },
+    {
+       
+        "1": {
+            "a": "Montreal",
+            "b": "Ottawa",
+            "c": "Toronto",
+            "d": "Vancouver"
+        },
+
+        "2": {
+            "a": "September 16, 1810",
+            "b": "July 1, 1867",
+            "c": "December 10, 1898",
+            "d": "August 15, 1947"
+        },
+
+        "3": {
+            "a": "Robert Borden",
+            "b": "Lester Pearson",
+            "c": "John Macdonald",
+            "d": "Joe Clark"
+        },
+
+        "4": {
+            "a": "China",
+            "b": "United States",
+            "c": "India",
+            "d": "Russia"
+        },
+
+        "5": {
+            "a": "Britain",
+            "b": "Spain",
+            "c": "Portugal",
+            "d": "France"
+        },
+
+        "6": {
+            "a": "Calgary",
+            "b": "Toronto",
+            "c": "Ottawa",
+            "d": "Winnipeg"
+        },
+        "7": {
+            "a": "Loch Ness monster",
+            "b": "Ogopogo",
+            "c": "Leviathan",
+            "d": "Morag"
+        },
+        "8": {
+            "a": "The Aquarium",
+            "b": "The Dinner Theatre",
+            "c": "A Glass Floor",
+            "d": "The Train"
+        },
+        "9": {
+            "a": "Basketball",
+            "b": "Football",
+            "c": "Golf",
+            "d": "Soccer"
+        },
+        "10": {
+            "a": "Lake Huran",
+            "b": "Great Bear Lake",
+            "c": "Great Slave Lake",
+            "d": "Lake Erie"
+        }
+    },
+    {
+        "1": "Ottawa",
+        "2": "July 1, 1867",
+        "3": "John Macdonald",
+        "4": "Russia",
+        "5": "France",
+        "6": "Calgary",
+        "7": "Ogopogo",
+        "8": "A Glass Floor",
+        "9": "Basketball",
+        "10": "Great Bear Lake"
+    }
+]

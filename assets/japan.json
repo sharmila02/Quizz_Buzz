@@ -1,0 +1,94 @@
+[
+    {
+        "1": "Japan is made up of islands. How many islands does Japan have in total?",
+        "2": "What is a traditional Japanese inn called?",
+        "3": "We all know Tokyo’s the largest city in terms of population, but where is the second biggest?",
+        "4": "Japan’s total population is approx. 127 million, but which European country is similar in size according to landmass?",
+        "5": "Before Tokyo, Japan had several other capital cities. Which is the most recent previous capital?",
+        "6": "How tall is the iconic Mount Fuji?",
+        "7": "Few ‘original’ castles remain from the Edo period of 1603 to 1868. How many still exist today?",
+        "8": "Kyoto is famous for its stunning geisha. But what does the word ‘geisha’ actually translate to?",
+        "9": "Japan is an up-and-coming hiking haven, but which of these timeless walking trails is over 1,000 years old?",
+        "10": "What is the top operational speed of the Shinkansen aka The Bullet train?"
+    },
+    {
+       
+        "1": {
+            "a": "6852",
+            "b": "10976",
+            "c": "352",
+            "d": "49"
+        },
+
+        "2": {
+            "a": "Onsen",
+            "b": "Ryokan",
+            "c": "Capsule",
+            "d": "Hanok"
+        },
+
+        "3": {
+            "a": "Kyoto",
+            "b": "Osaka",
+            "c": "Yokohama",
+            "d": "Nagaya"
+        },
+
+        "4": {
+            "a": "France",
+            "b": "Germany",
+            "c": "Spain",
+            "d": "United Kingdom"
+        },
+
+        "5": {
+            "a": "Hiroshima",
+            "b": "Osaka",
+            "c": "Kyoto",
+            "d": "Fukuoka"
+        },
+
+        "6": {
+            "a": "3776ft",
+            "b": "3776m",
+            "c": "2893ft",
+            "d": "2893m"
+        },
+        "7": {
+            "a": "8",
+            "b": "12",
+            "c": "19",
+            "d": "23"
+        },
+        "8": {
+            "a": "Person of Art,",
+            "b": "Doll performer",
+            "c": "Woman of Art",
+            "d": "Woman of dance"
+        },
+        "9": {
+            "a": "Komano Kodo",
+            "b": "Nakasendo Way",
+            "c": "Shimanamikaido",
+            "d": "Shinestsu Trail"
+        },
+        "10": {
+            "a": "200kmph",
+            "b": "260kmph",
+            "c": "320kmph",
+            "d": "400kmph"
+        }
+    },
+    {
+        "1": "6852",
+        "2": "Ryokan",
+        "3": "Yokohama",
+        "4": "Germany",
+        "5": "Kyoto",
+        "6": "3776m",
+        "7": "12",
+        "8": "Person of Art",
+        "9": "Kumano Kodo",
+        "10": "320kmph"
+    }
+]

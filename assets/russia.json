@@ -1,0 +1,94 @@
+[
+    {
+        "1": "Who was the first leader of the USSR.",
+        "2": "The city of Kazan is in which Russian republic?",
+        "3": "In what year did Yuri Gagarin become the first man in space?",
+        "4": "In pairs figure skating Russia or Soviet Union has won gold at the Winter Olympics every year since:",
+        "5": "After Russian, what is the second most spoken language in Russia?",
+        "6": "Which lake is the largest lake in Russia, the world’s deepest, containing one fifth of the world's fresh surface water?",
+        "7": "What is the highest mountain in Russia?",
+        "8": "What is the current name of the city formally known as Stalingrad?",
+        "9": "The army of the Soviet Union was known as:",
+        "10": "Which country does not share a border with Russia?"
+    },
+    {
+       
+        "1": {
+            "a": "Joseph Stalin",
+            "b": "Boris Yeltsin",
+            "c": "Mikhail Gorbachev",
+            "d": "Vladimir Lenin"
+        },
+
+        "2": {
+            "a": "Udmurtia",
+            "b": "Altai",
+            "c": "Tatarstan",
+            "d": "Degestan"
+        },
+
+        "3": {
+            "a": "1956",
+            "b": "1964",
+            "c": "1961",
+            "d": "1960"
+        },
+
+        "4": {
+            "a": "1964",
+            "b": "1984",
+            "c": "1968",
+            "d": "1976"
+        },
+
+        "5": {
+            "a": "German",
+            "b": "Chinese",
+            "c": "Belarusian",
+            "d": "Tartar"
+        },
+
+        "6": {
+            "a": "Lake Baikal",
+            "b": "Lake Ladoga",
+            "c": "Lake Onega",
+            "d": "Lake Sochi"
+        },
+        "7": {
+            "a": "Mount Elbrus",
+            "b": "Ural Mountain",
+            "c": "Mount Kamchatka",
+            "d": "Mount Everest"
+        },
+        "8": {
+            "a": "Volgograd",
+            "b": "St. Petersburg",
+            "c": "Kiev",
+            "d": "Novgorod"
+        },
+        "9": {
+            "a": "The Red Army",
+            "b": "The Blue Army",
+            "c": "The White Army",
+            "d": "The Third Reich,,"
+        },
+        "10": {
+            "a": "Sweden",
+            "b": "Norway",
+            "c": "Belarus",
+            "d": "Mongolia"
+        }
+    },
+    {
+        "1": "Vladimir Lenin",
+        "2": "Tartarstan",
+        "3": "1961",
+        "4": "1964",
+        "5": "Tartar",
+        "6": "Lake Baikal",
+        "7": "Mount Elbrus",
+        "8": "Volgograd",
+        "9": "Sweden",
+        "10": "The Red Army"
+    }
+]

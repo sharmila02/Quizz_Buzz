@@ -1,0 +1,94 @@
+[
+    {
+        "1": "How many members are there in the U.S. Senate?",
+        "2": "What is the American state with the fewest counties?",
+        "3": "Which American state has the most interstate highway kilometers?",
+        "4": "How many stripes does the American flag have?",
+        "5": "Which state did the United States purchase from Russia?",
+        "6": "How many states are there in the United States of America?",
+        "7": "Which state was once called Deseret?",
+        "8": "Which state did Edward Kennedy represent as a U.S. Senator?",
+        "9": "What is the capital of the United States?",
+        "10": "Which of these is not an American national park?"
+    },
+    {
+       
+        "1": {
+            "a": "100",
+            "b": "200",
+            "c": "50",
+            "d": "20"
+        },
+
+        "2": {
+            "a": "Maine",
+            "b": "Utah",
+            "c": "Rhode Island",
+            "d": "Delaware"
+        },
+
+        "3": {
+            "a": "California",
+            "b": "Montana",
+            "c": "New York",
+            "d": "Texus"
+        },
+
+        "4": {
+            "a": "15",
+            "b": "13",
+            "c": "18",
+            "d": "10"
+        },
+
+        "5": {
+            "a": "Alaska",
+            "b": "Oregon",
+            "c": "Washington",
+            "d": "Arizona"
+        },
+
+        "6": {
+            "a": "45",
+            "b": "50",
+            "c": "54",
+            "d": "72"
+        },
+        "7": {
+            "a": "Utah",
+            "b": "California",
+            "c": "Kansas",
+            "d": "Alaska"
+        },
+        "8": {
+            "a": "Connecticut",
+            "b": "New York",
+            "c": "Massachusetts",
+            "d": "Delaware"
+        },
+        "9": {
+            "a": "Ottawa",
+            "b": "Boston",
+            "c": "New York City",
+            "d": "Washington DC"
+        },
+        "10": {
+            "a": "Yellow Stone",
+            "b": "Grand Canyon",
+            "c": "Yosemite",
+            "d": "Disneyland"
+        }
+    },
+    {
+        "1": "100",
+        "2": "Delaware",
+        "3": "Texas",
+        "4": "13",
+        "5": "Alaska",
+        "6": "50",
+        "7": "Utah",
+        "8": "Massachusetts",
+        "9": "Washington DC",
+        "10": "Disneyland"
+    }
+]
